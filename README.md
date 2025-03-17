@@ -12,9 +12,8 @@
 
 | Folder        | Descriere |
 |--------------|------------|
-| **manual-testing/** | Teste manuale documentate |
+| **manual-testing/test-cases/** | Teste manuale documentate | Cazuri de test scrise în format Markdown |
 | **automation-testing/** | Scripturi pentru testare automată (în lucru) |
-| **test-cases/** | Cazuri de test scrise în format Markdown |
 | **bug-reports/** | Erori descoperite, descrise și documentate |
 
 ---
